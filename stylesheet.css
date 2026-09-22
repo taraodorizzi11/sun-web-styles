@@ -16,6 +16,7 @@ h1, h2, h3, h4, h5, h6 {
     gap: 1.5rem;
     justify-content: center;
     padding: 2rem 0;
+    margin: 24px 80px 80px 80px;
 }
 
 .custom-card {
