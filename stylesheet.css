@@ -1,8 +1,46 @@
 /* Type styling */
 body {
     font-family: 'Onest', sans-serif !important;
+    font-size: 1.125rem;
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Onest', sans-serif !important;
+}
+
+
+/* Custom cards */
+.custom-card-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    justify-content: center;
+    padding: 2rem 0;
+}
+
+.custom-card {
+    background-color: #f9e2ce;
+    border-radius: 1rem;
+    padding: 0.75rem;
+    flex: 1 1 280px;
+    max-width: 360px;
+    box-sizing: border-box;
+}
+
+.custom-card h3 {
+  font-size: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.custom-card p {
+  font-size: 1rem;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.custom-resource-image {
+  background-color: #ffffff;
+  border-radius: 0.75rem;
+  height: 160px;
+  margin-bottom: 1rem;
 }
