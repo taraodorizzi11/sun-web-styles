@@ -32,13 +32,14 @@ h2 {
 
 #section_365 .pb-cta-button-container {
     justify-content: flex-start !important;
-    align-self: left !important;
+    align-self: flex-start !important;
 }
 
 #section_365 .pb-text-content .pb-form-container {
     justify-content: left !important;
 }
 
+#section_365
 
 /* Custom cards */
 .custom-card-grid {
