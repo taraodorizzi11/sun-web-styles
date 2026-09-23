@@ -22,7 +22,7 @@ h2 {
 
 
 /* Homepage hero text alignment */
-#section_365 .pb-text-content {
+#section_365.pb-header .pb-text-content {
     text-align: left !important;
 }
 
@@ -71,7 +71,7 @@ h2 {
 
 /* Padding adjustments */
 #section_41476 .pb-text-content {
-    padding-bottom: 40px !important;
+    padding-bottom: 16px !important;
 }
 
 /* Divider */
