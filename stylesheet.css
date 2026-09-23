@@ -21,7 +21,8 @@ h2 {
 }
 
 /* Homepage hero text alignment */
-#section_365 .pb-header .pb-text-content .pb-headline h1 {
+#section_365 .pb-header .pb-text-content h1,
+#section_365 .pb-header .pb-text-content .pb-description {
     text-align: left !important;
 }
 
