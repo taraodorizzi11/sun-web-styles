@@ -62,10 +62,13 @@ h1 {
     padding-bottom: 24px !important;
 }
 
-
-
-
 /* Divider */
 #section_41509 img {
     width: 90% !important;
+}
+
+#section_41509 .pb-text-content {
+    padding: 0px !important;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
