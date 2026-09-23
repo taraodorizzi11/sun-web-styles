@@ -15,7 +15,7 @@ h1 {
 }
 
 /* Homepage hero text alignment */
-#section_365 {
+#section_365 h1 p {
     text-align: left !important;
 }
 
