@@ -20,10 +20,16 @@ h2 {
     font-weight: 700 !important;
 }
 
+
 /* Homepage hero text alignment */
-#section_365 .pb-header .pb-text-content {
+#section_365 .pb-text-content {
     text-align: left !important;
 }
+
+#section_365 .pb-form-container {
+    justify-content: flex-start !important;
+}
+
 
 /* Custom cards */
 .custom-card-grid {
