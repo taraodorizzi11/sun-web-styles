@@ -49,12 +49,18 @@ h1 {
   margin-bottom: 1rem;
 }
 
-/* Padding adjustments */
 
+/* Padding adjustments */
 #section_41476 .pb-text-content {
     padding-bottom: 24px !important;
 }
 
 #section_41509 .pb-text-content {
     padding: 0px !important;
+}
+
+
+/* Divider size */
+#section_41509 img {
+    width: 90% !important;
 }
