@@ -82,3 +82,8 @@ h2 {
 #section_41509 {
     background-color: #fdf1e7 !important;
 }
+
+#preview_content {
+  gap: 0 !important;
+  row-gap: 0 !important;
+}
