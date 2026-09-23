@@ -51,10 +51,10 @@ h1 {
 
 /* Padding adjustments */
 
-#section_41476 {
+#section_41476 .pb-text-content {
     padding-bottom: 24px !important;
 }
 
-#section_41507 {
+#section_41507 .pb-text-content {
     padding: 24px !important;
 }
