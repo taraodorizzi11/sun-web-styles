@@ -35,6 +35,10 @@ h2 {
     align-self: left !important;
 }
 
+#section_365 .pb-text-content {
+    justify-content: left !important;
+}
+
 
 /* Custom cards */
 .custom-card-grid {
