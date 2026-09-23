@@ -31,14 +31,10 @@ h2 {
 }
 
 #section_365 .pb-cta-button-container {
-    justify-content: flex-start !important;
-    align-self: flex-start !important;
-    flex-direction: row !important;
+    text-align: left !important;
 }
 
-#section_365 .pb-text-content .pb-form-container {
-    justify-content: left !important;
-}
+
 
 
 /* Custom cards */
