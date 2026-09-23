@@ -33,6 +33,7 @@ h2 {
 #section_365 .pb-cta-button-container {
     justify-content: flex-start !important;
     align-self: flex-start !important;
+    flex-direction: row !important;
 }
 
 #section_365 .pb-text-content .pb-form-container {
