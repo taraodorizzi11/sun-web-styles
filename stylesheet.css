@@ -69,7 +69,13 @@ h1 {
 }
 
 
-/* Divider size */
+/* Divider */
 #section_41509 img {
     width: 90% !important;
+}
+
+#section_41509 .pb-text-content p {
+  margin: 0;
+  padding: 0;
+  line-height: 0;
 }
