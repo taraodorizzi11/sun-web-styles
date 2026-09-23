@@ -22,7 +22,11 @@ h2 {
 
 
 /* Homepage hero text alignment */
-#section_365.pb-header .pb-text-content {
+#section_365 .pb-text-content,
+#section_365 .pb-headline,
+#section_365 .pb-headline h1,
+#section_365 .pb-description,
+#section_365 .pb-description p {
     text-align: left !important;
 }
 
