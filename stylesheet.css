@@ -66,6 +66,7 @@ h2 {
 /* Padding adjustments */
 #section_41476 .pb-text-content {
     padding-bottom: 24px !important;
+    margin-bottom: 24px !important;
 }
 
 /* Divider */
@@ -78,13 +79,4 @@ h2 {
     padding: 0px !important;
     margin-top: 0px;
     margin-bottom: 0px;
-}
-
-#section_41509 {
-    background-color: #fdf1e7 !important;
-}
-
-#preview_content {
-  gap: 0 !important;
-  row-gap: 0 !important;
 }
