@@ -29,6 +29,10 @@ a.lightbox-image {
     cursor: default !important;
 }
 
+a.lightbox-image img {
+    cursor: default !important;
+}
+
 
 /* HOMEPAGE STYLING */
 
