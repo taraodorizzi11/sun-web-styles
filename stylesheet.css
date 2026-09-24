@@ -123,3 +123,7 @@ a.lightbox-image img {
 #section_41665 .pb-text-content {
     padding-bottom: 0px !important;
 }
+
+#section_41665 h1 p {
+    max-width: 670px !important;
+}
