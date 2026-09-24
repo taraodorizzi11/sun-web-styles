@@ -35,8 +35,6 @@ h2 {
 }
 
 
-
-
 /* Custom cards */
 .custom-card-grid {
     display: flex;
@@ -94,4 +92,12 @@ h2 {
     padding: 0px !important;
     margin-top: 0px;
     margin-bottom: 0px;
+}
+
+
+
+/* About Hero */
+#section_41665 img {
+    width: 100% !important;
+    max-width: 1440px !important;
 }
