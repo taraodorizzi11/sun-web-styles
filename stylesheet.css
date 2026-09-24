@@ -122,11 +122,12 @@ a.lightbox-image img {
 
 #section_41675 .pb-text-content {
     padding-bottom: 0px !important;
-    padding-top: 24px !important;
+    padding-top: 0px !important;
 }
 
 #section_41665 .pb-text-content {
     max-width: 760px !important;
+    padding-bottom: 24px !important;
 }
 
 #section_41665 .container {
