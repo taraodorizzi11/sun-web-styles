@@ -131,6 +131,7 @@ a.lightbox-image img {
 
 #section_41665 .container {
     justify-text: center !important;
+    max-width: 670px !important;
 }
 
 #section_41674 .pb-text-content {
