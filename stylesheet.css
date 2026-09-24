@@ -125,6 +125,11 @@ a.lightbox-image img {
     padding-top: 24px !important;
 }
 
-#section_41665 {
+#section_41665 .pb-text-content {
+    max-width: 670px !important;
+}
+
+
+#section_41674 .pb-text-content {
     max-width: 670px !important;
 }
