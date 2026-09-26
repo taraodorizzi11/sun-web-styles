@@ -132,8 +132,8 @@ a.lightbox-image img {
 }
 
 #section_41675 img {
-    width: 100% !important;/*
-    max-width: 1440px !important;*/
+    width: 100% !important;
+    max-width: 1440px !important;
 }
 
 #section_41675 [data-pb-field="html"] p {
