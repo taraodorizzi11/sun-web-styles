@@ -121,8 +121,8 @@ a.lightbox-image img {
 }*/
 
 #section_41675 .container {
-    height: auto !important;
     padding-bottom: 0px !important;
+    display: flow-root;
 }
 
 #section_41675 .pb-text-content {
