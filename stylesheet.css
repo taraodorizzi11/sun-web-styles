@@ -116,7 +116,7 @@ a.lightbox-image img {
 
 /* About Hero */
 /* About Hero image - full width, no gap, tighter spacing */
-#section_41675 {
+/* #section_41675 {
     height: auto !important;
 }
 
@@ -151,6 +151,7 @@ a.lightbox-image img {
     max-width: 760px !important;
     justify-text: center !important;
 }
+*/
 
 /* About (who section) */
 #section_41674 .pb-text-content {
