@@ -116,9 +116,6 @@ a.lightbox-image img {
 
 /* About Hero */
 /* About Hero image - full width, no gap, tighter spacing */
-/* #section_41675 {
-    height: auto !important;
-}*/
 
 #section_41675 .container {
     padding-bottom: 0px !important;
@@ -142,18 +139,7 @@ a.lightbox-image img {
     margin: 0 !important;
     margin-bottom: 16px !important;
 }
-/*
-#section_41665 .pb-text-content {
-    height: auto !important;
-    max-width: 760px !important;
-    padding-bottom: 32px !important;
-}
 
-#section_41665 .container {
-    max-width: 760px !important;
-    justify-text: center !important;
-}
-*/
 
 /* About (who section) */
 #section_41674 .pb-text-content {
@@ -163,4 +149,21 @@ a.lightbox-image img {
 #section_41674 .container {
     max-width: 700px !important;
     justify-text: center !important;
+}
+
+/* About (why section) */
+/* Section 41676 - two column layout adjustments */
+
+#section_41676 .column-block {
+    gap: 48px !important;
+}
+
+#section_41676 .column-block {
+    align-items: center !important;
+}
+
+#section_41676 .column img {
+    width: 100% !important;
+    height: auto !important;
+    object-fit: contain !important;
 }
